@@ -19,8 +19,6 @@ We used **Enteroscope Biopsy Histopathological Hematoxylin and Eosin Image Datas
 # Environment Setup
 """
 
-!pip install pytorch-lightning
-
 !pip install torchinfo
 
 !pip install vision_transformer_pytorch
